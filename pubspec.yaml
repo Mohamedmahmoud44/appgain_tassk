@@ -1,0 +1,79 @@
+name: appgain_task
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #Provides the Cupertino-style icons as Flutter Icons.
+  cupertino_icons: ^1.0.2
+  #Allows displaying an image in full screen with zooming capabilities.
+  full_screen_image: ^2.0.0
+  # enable Firebase services in  application.
+  firebase_core: ^2.20.0
+  #Helps implement equality without needing to explicitly override == and hashCode
+  equatable: ^2.0.5
+  # Functional programming in Dart. It provides immutable
+  dartz: ^0.10.1
+  #A simple Service Locator for Dart and Flutter projects. It allows to decouple the interface from the implementation.
+  get_it: ^7.6.7
+  #A  Dart HTTP client for making RESTful API requests.
+  dio: ^5.4.0
+  #for handling deep links. It allows your app to respond to external links.
+  uni_links: ^0.5.1
+  #provides a simple way to set the dimensions in UI based on the screen size.
+  flutter_screenutil: ^5.9.0
+  #helps separate the business logic from the UI layer in Flutter applications.
+  flutter_bloc: ^8.1.3
+  #It helps load and cache images from the network efficiently.
+  cached_network_image: ^3.3.1
+  #Firebase Cloud Messaging (FCM) for pushing notifications to your Flutter app.
+  firebase_messaging: ^14.7.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+     - assets/images/
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

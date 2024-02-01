@@ -1,0 +1,12 @@
+name.avioli.unilinks.uni_links-jetified-window-java-1.0.0-beta04-0 C:\Users\Muhammed\.gradle\caches\transforms-3\4e3d4d31e561039bcaa81984587914f9\transformed\jetified-window-java-1.0.0-beta04\res
+name.avioli.unilinks.uni_links-core-1.6.0-1 C:\Users\Muhammed\.gradle\caches\transforms-3\5d9f950b7722b2ed365ff44dc05a3c61\transformed\core-1.6.0\res
+name.avioli.unilinks.uni_links-jetified-window-1.0.0-beta04-2 C:\Users\Muhammed\.gradle\caches\transforms-3\b71f2b7f498ba90bc862c875a0ff2f95\transformed\jetified-window-1.0.0-beta04\res
+name.avioli.unilinks.uni_links-jetified-annotation-experimental-1.1.0-3 C:\Users\Muhammed\.gradle\caches\transforms-3\f4ce352462fe2fb97a4e0e8681e6d527\transformed\jetified-annotation-experimental-1.1.0\res
+name.avioli.unilinks.uni_links-main-4 C:\Users\Muhammed\AppData\Local\Pub\Cache\hosted\pub.dev\uni_links-0.5.1\android\src\main\res
+name.avioli.unilinks.uni_links-release-5 C:\Users\Muhammed\AppData\Local\Pub\Cache\hosted\pub.dev\uni_links-0.5.1\android\src\release\res
+name.avioli.unilinks.uni_links-pngs-6 D:\appgain_task\build\uni_links\generated\res\pngs\release
+name.avioli.unilinks.uni_links-resValues-7 D:\appgain_task\build\uni_links\generated\res\resValues\release
+name.avioli.unilinks.uni_links-rs-8 D:\appgain_task\build\uni_links\generated\res\rs\release
+name.avioli.unilinks.uni_links-mergeReleaseResources-9 D:\appgain_task\build\uni_links\intermediates\incremental\release\mergeReleaseResources\merged.dir
+name.avioli.unilinks.uni_links-mergeReleaseResources-10 D:\appgain_task\build\uni_links\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+name.avioli.unilinks.uni_links-merged_res-11 D:\appgain_task\build\uni_links\intermediates\merged_res\release

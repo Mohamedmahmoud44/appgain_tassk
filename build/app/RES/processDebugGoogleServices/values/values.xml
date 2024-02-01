@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">93911385980</string>
+    <string name="google_api_key" translatable="false">AIzaSyCe1_qy6X_00obOUvH18S_xBNDnYB5OKrY</string>
+    <string name="google_app_id" translatable="false">1:93911385980:android:e5ccbd9165d142e09006f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCe1_qy6X_00obOUvH18S_xBNDnYB5OKrY</string>
+    <string name="google_storage_bucket" translatable="false">movieapp-d52da.appspot.com</string>
+    <string name="project_id" translatable="false">movieapp-d52da</string>
+</resources>

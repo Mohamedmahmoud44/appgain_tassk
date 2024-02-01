@@ -1,0 +1,4 @@
+#Thu Feb 01 04:26:25 PST 2024
+base.0=D\:\\appgain_task\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

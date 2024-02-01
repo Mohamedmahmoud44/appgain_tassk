@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-0 C:\Users\Muhammed\.gradle\caches\transforms-3\4e3d4d31e561039bcaa81984587914f9\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-1 C:\Users\Muhammed\.gradle\caches\transforms-3\5d9f950b7722b2ed365ff44dc05a3c61\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-2 C:\Users\Muhammed\.gradle\caches\transforms-3\b71f2b7f498ba90bc862c875a0ff2f95\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-3 C:\Users\Muhammed\.gradle\caches\transforms-3\f4ce352462fe2fb97a4e0e8681e6d527\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-main-4 C:\Users\Muhammed\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\Muhammed\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\src\release\res
+com.tekartik.sqflite-pngs-6 D:\appgain_task\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 D:\appgain_task\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 D:\appgain_task\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 D:\appgain_task\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 D:\appgain_task\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 D:\appgain_task\build\sqflite\intermediates\merged_res\release
