@@ -40,26 +40,24 @@ class MovieDetailsBody extends StatelessWidget {
             ),
           ),
            SizedBox(height: 10.h,),
-          Expanded(
-            child: Container(
-              decoration:  BoxDecoration(
-                  borderRadius: BorderRadius.only(
-                    topRight: Radius.circular(40.r),
-                    topLeft: Radius.circular(40.r),
-                  ),
-                  color: Colors.amber),
-              padding: const EdgeInsets.all(20),
-              child: Text(
-
-                model.overview??'no title',
-                maxLines: 3,
-                overflow: TextOverflow.ellipsis,
-                style: TextStyle(
-                  height: 2,
-                  fontSize: 18.sp,
-                  fontWeight: FontWeight.bold,
-                  color: AppColors.hint,
+          Container(
+            decoration:  BoxDecoration(
+                borderRadius: BorderRadius.only(
+                  topRight: Radius.circular(40.r),
+                  topLeft: Radius.circular(40.r),
                 ),
+                color: Colors.amber),
+            padding: const EdgeInsets.all(20),
+            child: Text(
+
+              model.overview??'no title',
+              maxLines: 3,
+              overflow: TextOverflow.ellipsis,
+              style: TextStyle(
+                height: 2,
+                fontSize: 18.sp,
+                fontWeight: FontWeight.bold,
+                color: AppColors.hint,
               ),
             ),
           ),
