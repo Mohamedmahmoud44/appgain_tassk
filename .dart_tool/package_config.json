@@ -8,6 +8,18 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.4.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "async",
       "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
@@ -50,6 +62,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "checked_yaml",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/cli_util-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "clock",
       "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -58,6 +82,12 @@
     {
       "name": "collection",
       "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -164,10 +194,10 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3",
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     },
     {
       "name": "flutter_screenutil",
@@ -212,16 +242,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "image",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/image-4.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "js",
       "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
-      "name": "lints",
-      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1",
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     },
     {
       "name": "matcher",
@@ -296,6 +332,12 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "platform",
       "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.4",
       "packageUri": "lib/",
@@ -304,6 +346,12 @@
     {
       "name": "plugin_platform_interface",
       "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.7.4",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -440,13 +488,25 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/Muhammed/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "appgain_task",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-02-01T12:24:46.576944Z",
+  "generated": "2024-02-02T00:00:15.936390Z",
   "generator": "pub",
   "generatorVersion": "3.1.3"
 }
